@@ -19,6 +19,7 @@ Untuk menjawab pertanyaan “Bagaimana Jika Teknologi Sudah Mengontrol Kehidupan
 ## **Isi**
 
 Teknologi dapat mengontrol kehidupan sehari-hari manusia apabila kita menggunakan teknologi tanpa mengetahui batasan terutama batas hiperealitas misalnya jika terus bermain media sosial sampai menghabiskan waktu untuk mengisi kegiatan yang membuat kita merasa hadir dan utuh di dunia realitas, kita akan disetir oleh standar media sosial dan Lelah karena mendapat beragam informasi dimana informasi tersebut bukan hanya di tempat yang sedang kita pijak (misalnya berita dari luar pulau bahkan luar negara). 
+
 Menurut Mechele Foucault penggunaan teknologi menyebabkan manusia merasa selalu diawasi seperti halnya keberadaan cctv yang membuat manusia merasa diawasi dan harus selalu menjaga perilakunya, tetapi jika tidak ada cctv manusia merasa lebih bebas dalam bertingkah laku, dan juga seperti halnya keberadaan sosial media dimana beberapa orang seringkali takut untuk mengunggah sesuatu seperti takut jika fotonya jelek maupun jika captionnya tidak sesuai dan tidak sopan.  (Media, 2023)
 
 ## **Kesimpulan**
