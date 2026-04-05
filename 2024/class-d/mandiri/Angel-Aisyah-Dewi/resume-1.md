@@ -4,10 +4,10 @@
 ## Kelas: 4D
 ## Mata Kuliah: Perpustakaan dan Arsip Digital
 
-## Analisis.
+## Analisis
 Resume ini dibuat berdasarkan pertanyaan dari kelompok satu mengenai, “Apa yang terjadi pada masa Renaissance?”. Disusun berdasarkan opini ilmiah dan sumber referensi yang memadai tentang peristiwa Renaissance yang mencakup banyak aspek kehidupan.
 
-## Pendahuluan.
+## Pendahuluan
 Renaissance merupakan peristiwa peradaban yang membawa perubahan besar dalam kehidupan masyarakat. Pada masa itu, Renaissance bukan hanya berpengaruh pada satu aspek. Budaya, sejarah, ilmu pengetahuan, seni, teknologi, ekonomi, serta kehidupan sosial adalah beberapa dari banyak aspek yang berkembang karena adanya peristiwa Renaissance. Dalam buku ‘The Renaissance’ karya Wallace Klippert Ferguson, 2023. Ia menjelaskan bahwa Renaissance pertama kali muncul di Italy pada abad ke-14. Pada saat itu perubahan ekonomi yang baik sudah terlihat, jalur perdagangan terbuka lebar, masyarakat Eropa pada saat itu juga mulai meninggalkan dominasi gereja dan beralih kepada logika dan ilmu pengetahuan. Dari situlah, peristiwa Renaissance terus berkembang untuk menyempurnakan berbagai aspek dalam kehidupan.
 
 ## Pembahasan
