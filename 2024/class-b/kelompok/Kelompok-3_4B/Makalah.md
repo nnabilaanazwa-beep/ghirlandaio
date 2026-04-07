@@ -51,10 +51,30 @@ semoga makalah ini dapat memberikan manfaat bagi para pembaca.
   <h1>DAFTAR ISI</h1>
 </div>
 
+* [KATA PENGANTAR](#kata-pengantar)
+* [DAFTAR ISI](#daftar-isi)
+* [PENDAHULUAN](#pendahuluan)
+* [1.1 Latar Belakang](#11-latar-belakang)
+* [1.2 Rumusan Masalah](#12-rumusan-masalah)
+* [1.3 Tujuan Penulisan](#13-tujuan-penulisan)
+* [1.4 Manfaat](#14-manfaat)
+* [PEMBAHASAN](#pembahasan)
+* [KATA PENGANTAR](#kata-pengantar)
+* [2.1 Pola Hubungan Antara Negara dan Teknologi Pada Rentang Tahun 1960-Sekarang](#21)
+* [2.2 Pola Hubungan antara Sektor Swasta dan Teknologi Pada Rentang Tahun 1960–Sekarang](#22)
+* [2.3 Implementasi dan Kontribusi Hacking Culture dalam Tkenologi Modern](#23)
+* [2.4 Sejarah dan Pola Hubungan Antara Kode Sumber Terbuka dan Kode Sumber Tertutup Rentang Tahun 1970an-Sekarang](#24)
+* [2.5 Sikap Terhadap Kode Sumber Terbuka atau Kode Sumber Tertutup](#25)
+* [2.6 Hubungan antara kode sumber terbuka dan kode sumber tertutup dengan ideologi](#26)
+* [PENUTUP](#penutup)
+* [3.1 Kesimpulan](#31-kesimpulan)
+* [DAFTAR PUSTAKA](#daftar-pustaka)
+
 <div align="center">
   <h1>BAB I</h1>
   <h1>PENDAHULUAN</h1>
 </div>
+
 ## 1.1 Latar Belakang
 Perkembangan teknologi informasi sejak pertengahan abad ke-20 telah mengubah secara mendasar lanskap sosial, ekonomi, politik, dan budaya global. Era 1960-an menandai titik balik ketika komputer beralih dari instrumen hitung militer-ilmiah yang terpusat menjadi fondasi infrastruktur digital yang kini menopang peradaban kontemporer. Dalam kurun waktu lebih dari enam dekade, dinamika penciptaan, distribusi, dan pemanfaatan teknologi tidak lagi digerakkan oleh satu aktor tunggal, melainkan oleh interaksi kompleks antara negara, sektor swasta, komunitas teknis, serta nilai-nilai ideologis yang melingkupinya. Memetakan pola hubungan antar-aktor tersebut menjadi prasyarat untuk memahami mengapa teknologi berkembang dalam bentuk, arah, dan regulasi seperti yang kita saksikan hari ini.
 
@@ -91,6 +111,7 @@ Adapun tujuan penulisan makalah ini adalah:
   <h1>PEMBAHASAN</h1>
 </div>
 
+<a name="21"></a>
 ## 2.1 Pola Hubungan Antara Negara dan Teknologi Pada Rentang Tahun 1960-Sekarang
 Dalam Das Kapital, Marx menegaskan bahwa negara bukanlah entitas netral,
 melainkan instrumen kelas berkuasa untuk menjaga sistem produksi kapitalis.
@@ -110,6 +131,7 @@ Negara sejak 1960-an bukan netral, tapi jadi alat kelas berkuasa. teknologi
 diarahkan untuk mendukung kepentingan kapitalisme, misalnya lewat riset dan infrastruktur.
 jadi hubungan negara dan teknologi itu negara menjaga agar teknologi tetap meunguntungkan pemilik modal.
 
+<a name="22"></a>
 ## 2.2 Pola Hubungan antara Sektor Swasta dan Teknologi Pada Rentang Tahun 1960–Sekarang
 Pada awal 1960-an, hubungan antara teknologi dan sektor swasta masih sangat dipengaruhi oleh negara, khususnya militer Amerika Serikat. Melalui ARPA (Advanced Research Projects Agency), Departemen Pertahanan menjadi sumber utama pendanaan riset komputer, dengan pola hierarkis yang jelas: negara menentukan arah riset, universitas mengerjakan, dan kontraktor militer memproduksi. ARPANET, yang kelak menjadi cikal bakal internet, lahir dari motivasi praktis Bob Taylor untuk menghubungkan peneliti agar lebih efisien, bukan semata-mata demi keamanan nasional seperti narasi yang berkembang kemudian. Namun, stabilitas pola ini mulai retak seiring memanasnya Perang Vietnam. Gelombang protes mahasiswa, termasuk di Stanford yang memblokir SRI dan laboratorium berbasis dana pertahanan, memaksa universitas mempertimbangkan ulang ketergantungan mereka pada militer. Tekanan ini justru mendorong inovasi kelembagaan, seperti yang dilakukan Niels Reimers di Stanford, yang mulai merancang model komersialisasi riset agar universitas bisa menghasilkan pendapatan mandiri tanpa bergantung penuh pada negara.
 
@@ -119,6 +141,7 @@ Menjelang akhir 1970-an hingga awal 1980-an, pola hubungan berbalik arah: indust
 
 Apa yang dimulai sebagai proyek negara pada 1960-an akhirnya berevolusi menjadi ekosistem inovasi yang didorong sektor swasta pada 1980-an, dengan universitas berperan sebagai katalisator. Pola ini tidak dibangun oleh segelintir jenius tunggal, melainkan oleh jaringan aktor "lapisan kedua" yang membuat keputusan strategis tentang pendanaan, regulasi, dan paten. Ekosistem yang memadukan modal ventura, riset universitas, startup, dan lobi kebijakan ini kini menjadi model global. Sebagaimana dicatat Mowery dan Sampat (2004), Undang-Undang Bayh-Dole tetap menjadi titik balik paling signifikan dalam sejarah hubungan universitas–industri di Amerika Serikat, dengan dampak yang masih terasa hingga hari ini di hampir seluruh sistem riset dunia.
 
+<a name="23"></a>
 ## 2.3 Implementasi dan Kontribusi Hacking Culture dalam Tkenologi Modern
 Jika kita melihat sejarah yang di catat oleh Leslie Berlin dalam buku *troublemakers*, istilah "peretasan" atau *hacking* memiliki makna yang jauh dari makna negatif kriminalitas siber saat ini. Di Silicon Valley era 1970-an *hacking culture adalah sebuah semangat untuk membongkar, memahami,dan menyusun kembali teknologi agar berfungsi lebih baik atau lebih menyenangkan.
 
@@ -126,6 +149,7 @@ Salah satu contoh nyata dalam buku ini adalah kisah Al Alcorn saat merancang *Po
 
 Kontribusi terbesar dari budaya ini bagi teknologi modern adalah humanisasi teknologi. Tanpa para *troublemakers* yang berani "menggulik" aturan-aturan lama, komputer mungkin masih menjadi mesin raksasa yang hanya di pahami oleh ilmuwan militer. Budaya *hacking* mengajarkan kita bahwa teknologi harus fleksibel dan fokus pada pengalaman penggunanya "*UX*" *User Experience*. Semangat bergerak cepat dan mencoba hal baru yang menjadi standar *startup* saat ini adalah warisan langsung dari budaya peretasan di masa wal Silicon Valley.
 
+<a name="24"></a>
 ## 2.4 Sejarah dan Pola Hubungan Antara Kode Sumber Terbuka dan Kode Sumber Tertutup Rentang Tahun 1970an-Sekarang.
 Evolusi hubungan antara kode sumber terbuka dan tertutup sejak 1970an mencerminkan transformasi struktural dalam produksi perangkat lunak. Pada dekade 1970an, pengembangan kode bersifat kolaboratif di lingkungan akademik seperti Bell Labs dan MIT, dengan UNIX yang disebarkan bersama dokumentasi sebagai bagian dari budaya pertukaran ilmu. Namun, awal 1980an menandai pergeseran akibat komersialisasi, ketika perusahaan mulai memperlakukan kode sebagai aset intelektual eksklusif, menciptakan dikotomi awal antara praktik berbagi di komunitas riset dan strategi proteksi pasar di industri.
 
@@ -133,7 +157,8 @@ Ketegangan antara kedua model tersebut mengkristal pada akhir 1980an hingga 1990
 
 Memasuki abad ke-21, pola hubungan mengalami konvergensi fungsional. Korporasi teknologi tidak lagi memandang sumber terbuka sebagai ancaman, melainkan sebagai infrastruktur strategis yang mengurangi biaya riset dan mempercepat inovasi. Mekanisme seperti lisensi ganda, model open-core, dan adopsi arsitektur cloud menjadi instrumen yang memungkinkan perusahaan mempertahankan kontrol komersial sekaligus memanfaatkan kolaborasi komunitas. Secara historis, batas antara "terbuka" dan "tertutup" terbukti permeabel dan kontekstual: melalui model inovasi private-collective, interaksi keduanya bukan pertarungan ideologis yang berakhir dengan dominasi satu pihak, melainkan proses adaptasi mutual yang menghasilkan arsitektur perangkat lunak kontemporer yang modular, terdistribusi secara global, dan berlapis lisensi.
 
-## 2.5  Sikap Terhadap Kode Sumber Terbuka atau Kode Sumber Tertutup.
+<a name="25"></a>
+## 2.5 Sikap Terhadap Kode Sumber Terbuka atau Kode Sumber Tertutup.
 Marx menekankan bahwa kepemilikan alat produksi menentukan relasi sosial.
 dalam konteks digital, kode sumber dapat dipandang sebagai "alat produksi baru"
 yang menentukan siapa yang berhak mengakses, mengubah, dan memanfaatkanya.
@@ -151,7 +176,7 @@ Closed source berarti kode ditutup, hanya pemilik modal yang bisa kontrol dan am
 
 sikap kita terhadap kode sumber terbuka (*open source*) atau tertutup (*closed source*) sebaiknya tidak bersifat kaku, melaikan dilihat sebagai alat yang digunakan sesuai dengan tahap perkembangan inovasi tersebut. *Troublemakers* mengajarkan kita bahwa dunia digital tumbuh paling pesat justru ketika ada ruang untuk kolaborasi publik sekaligus ruang untuk kompetensi privat.
 
-
+<a name="26"></a>
 ## 2.6 Hubungan antara kode sumber terbuka dan kode sumber tertutup dengan ideologi
 Marx menjelaskan bahwa ideologi adalah bentuk "kesadaran palsu" yang
 menutupi relasi produksi sebenarnya. Kutipan Marx :
