@@ -57,8 +57,10 @@ Adapun tujuan penulisan makalah ini adalah:
 3. Untuk menelusuri implementasi serta kontribusi budaya hacking terhadap perkembangan teknologi dan masyarakat.
 4. Untuk mengetahui sejarah serta pola hubungan antara open source dan closed source dari tahun 1970-an hingga sekarang.
 5. Untuk memberikan analisis mendalam mengenai kaitan antara kode sumber dan ideologi, dalam perspektif ekonomi-politik (Smith, Keynes, Marx, Berlin).
+6. Untuk - Menganalisis hubungan antara kode sumber terbuka dan tertutup dengan ideologi
 
-## PEMBAHASAN
+## 2. PEMBAHASAN
+### 2.1 Pola hubungan antara negara dan teknologi pada rentang tahun 1960-sekarang
 Dalam Das Kapital, Marx menegaskan bahwa negara bukanlah entitas netral,
 melainkan instrumen kelas berkuasa untuk menjaga sistem produksi kapitalis.
 Kutipan Marx yang terkenal menyebutkan: 
@@ -77,6 +79,37 @@ Negara sejak 1960-an bukan netral, tapi jadi alat kelas berkuasa. teknologi
 diarahkan untuk mendukung kepentingan kapitalisme, misalnya lewat riset dan infrastruktur.
 jadi hubungan negara dan teknologi itu negara menjaga agar teknologi tetap meunguntungkan pemilik modal.
 
+### 2.5  Analisis mendalam mengenai kaitan antara kode sumber dan ideologi, dalam perspektif ekonomi-politik (Smith, Keynes, Marx, Berlin).
+Marx menekankan bahwa kepemilikan alat produksi menentukan relasi sosial.
+dalam konteks digital, kode sumber dapat dipandang sebagai "alat produksi baru"
+yang menentukan siapa yang berhak mengakses, mengubah, dan memanfaatkanya.
+kutipan Marx : “The accumulation of capital, therefore, is concentration of the means of production and of the command over labour.” (Das Kapital, Vol. I)
+“Akumulasi kapital, dengan demikian, adalah konsentrasi alat produksi dan penguasaan atas tenaga kerja.”
+closed scourse menceriminkan logika kapitalisme: kode diprivatisasi, akses dibatasi, dan keuntungan terkonsentrasi pada pemilik modal. 
+sebaliknya, open source mencerminkan semangat kolektif:kode dibuka untuk semua,
+memungkinkan kolaborasi, dan menentang monopoli kapital. Sikap terhadap open source atau closed source pada ahirnya bukan hanya pilihan teknis, melainkan
+pilihan politik dan ideologis. Mendukung open source berarti berpihak pada
+distribusi pengetahuan dan aksesyang lebih, sejalan dengan gagasan Marx tentang 
+kepemilikan bersama.sebaliknya, mendukung closed source berarti menerima struktur
+kapitalisme yang menekan kontrol, profit, dan eksklusivitas.
+Open source berarti kode dibuka, bisa dipakai dan dikembangkan bersama. 
+Closed source berarti kode ditutup, hanya pemilik modal yang bisa kontrol dan ambil untung.
+
+
+### 2.6 Hubungan antara kode sumber terbuka dan kode sumber tertutup dengan ideologi.
+Marx menjelaskan bahwa ideologi adalah bentuk "kesadaran palsu" yang
+menutupi relasi produksi sebenarnya. Kutipan Marx :
+“In the social production of their existence, men inevitably enter into definite relations, which are independent of their will.” (Preface to A Contribution to the Critique of Political Economy)
+“Dalam produksi sosial atas keberadaan mereka, manusia secara tak terelakkan masuk ke dalam hubungan tertentu yang independen dari kehendak mereka.”\
+Dalam konteks kode sumber, ideologi hadir dalam bentuk bagaimana aksess terhadap 
+kode diatur. closed source membawa ideologi kapitalisme:
+menekankan kepemilikan privat, kontrol, dan profit. Open source membawa ideologi kolektif: menekankan kebersamaan, aksess terbuka, dan kerja sama.
+kode sumber menjadi medium ideologis yang menentukan bagaimana relasi sosial terbentuk.
+jika kode di tutup, relasi soisal tunduk pada logika kapitalisme akses terbatas, 
+keuntungan terkonsentrasi. jika kode dibuka, relasi sosial lebih egaliter pengetahuan dan inovasi bisa di bagi secara luas.
+Dengan demikian, perdebatan open source versus closed source bukan hanya soal
+teknologi, tetapi juga soal ideologi yang mendasari struktur masyarakat modern.
+Kode sumber itu bukan hanya instruksi teknis, tetapi juga membawa ideologi. Closed source ideologi kapitalisme (privatisasi, kontrol, profit). Open source ideologi kolektif (akses terbuka, kerja sama, kebersamaan). Jadi, cara kita mengatur kode sumber ikut menentukan bentuk relasi sosial di masyarakat.
 
 
 
