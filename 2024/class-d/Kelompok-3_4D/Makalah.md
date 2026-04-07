@@ -117,7 +117,9 @@ Sedangkan kode sumber tertutup (closed source) itu lebih menekankan ke kepemilik
 
 # BAB III PENUTUP
 ## 3.1 KESIMPULAN
+Berdasarkan pembahasan yang telah dijelaskan, dapat disimpulkan bahwa perkembangan teknologi sejak tahun 1960-an hingga sekarang sangat dipengaruhi oleh hubungan antara negara, sektor swasta, budaya hacking, serta kode sumber terbuka dan kode sumber tertutup yang dilatar belakangi oleh ideologi dan sistem ekonomi.
 
+Secara keseluruhan, perkembangan teknologi modern merupakan hasil dari interaksi antara negara, sektor swasta, budaya hacking, serta sistem kode sumber terbuka dan tertutup yang dipengaruhi oleh ideologi ekonomi dan sosial. Hubungan yang saling melengkapi ini menunjukkan bahwa teknologi tidak berkembang secara netral, tetapi selalu dipengaruhi oleh kepentingan, kebijakan, dan nilai-nilai yang ada dalam masyarakat, sehingga diperlukan keseimbangan antara kebebasan inovasi dan regulasi agar teknologi dapat memberikan manfaat yang optimal bagi kehidupan manusia.
 # DAFTAR PUSTAKA
 1. KEMAJUAN TEKNOLOGI DAN POLA HIDUP MANUSIA DALAM PERSPEKTIF SOSIAL BUDAYA https://share.google/LnIzk3PnC667TCHlU
 2. The origins of the state: technology, cooperation and institutions https://www.researchgate.net/publication/347823248_The_origins_of_the_state_technology_cooperation_and_institutions 
