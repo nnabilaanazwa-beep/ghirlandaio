@@ -14,11 +14,14 @@ Perpustakaan digital merupakan sebuah inovasi untuk memberi kemudahan akses info
 Dilema etis muncul berkaitan dengan prinsip keamanan triad CIA (Confidentiality, Integrity, Availability) yang menjadi dasar penting. Ketiga prinsip ini sering kali menimbulkan dilema etis dalam penerapannya, yaitu:
 
 1. Confidentiality
-Perpustakaan harus menjaga data pengguna tetap rahasia, namun bisa membatasi akses. Sebaliknya, jika akses dibuat terlalu mudah, risiko kebocoran data meningkat.
+   Perpustakaan harus menjaga data pengguna tetap rahasia, namun bisa membatasi akses. Sebaliknya, jika akses dibuat
+   terlalu mudah, risiko kebocoran data meningkat.
 2. Availability
-Perpustakaan ingin sistem selalu mudah diakses oleh pengguna, tapi semakin terbuka aksesnya, semakin besar potensi pelanggaran privasi.
-3. Integrity 
-Perpustakaan harus menjaga keaslian dan dalam hal ini membutuhkan kontrol ketat, yang bisa mengurangi kebebasan pengguna dalam mengakses atau memodifikasi informasi.
+   Perpustakaan ingin sistem selalu mudah diakses oleh pengguna, tapi semakin terbuka aksesnya, semakin besar potensi
+   pelanggaran privasi.
+3. Integrity
+   Perpustakaan harus menjaga keaslian dan dalam hal ini membutuhkan kontrol ketat, yang bisa mengurangi kebebasan
+   pengguna dalam mengakses atau memodifikasi informasi.
 
 ## Kesimpulan
 Prinsip triad CIA membantu melindungi sistem perpustakaan digital, tetapi juga menimbulkan dilema etis antara akses informasi dan privasi. Oleh karena itu, perpustakaan perlu membuat keseimbangan melalui kebijakan dan pengelolaan yang etis.
